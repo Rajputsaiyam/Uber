@@ -1,0 +1,15 @@
+//User
+[
+{
+    email: "saiyamrajput71@gmail.com",
+    firstName: "saiyam",
+    lastName: "rajput",
+    password: "S@aiaym11",
+},
+],
+//Captain
+[
+{
+    firstName: "Manish", lastName: "Pal", email: "manishpal71@gmail.com", password: "M@nish11"
+}
+]
